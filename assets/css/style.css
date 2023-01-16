@@ -1,1 +1,31 @@
-body{font:Poppins;color:#dfdaf3}
+/* ------Common-Css------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 1.6;
+  font: Poppins;
+  color: #3E3F66;
+  background-color: #F6F4FE;
+}
+
+a {
+  text-decoration: none;
+  color: #3E3F66;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #3E3F66;
+}
+
+ul li {
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+}/*# sourceMappingURL=style.css.map */
