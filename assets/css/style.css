@@ -1,4 +1,4 @@
-/* ------Common-Css------------- */
+/* ------Common-SCSS------------- */
 html {
   scroll-behavior: smooth;
 }
@@ -28,4 +28,4 @@ ul li {
   padding: 0;
   list-style-type: none;
   margin: 0;
-}/*# sourceMappingURL=style.css.map */
+}
